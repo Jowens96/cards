@@ -20,7 +20,7 @@ html {
   display: inline-block;
   margin: 0 .5em 1em;
   max-width: 20em;
-  padding: 1em;
+  padding: .5em;
   background-color: #fff;
   border: 3px solid #e2e2e2;
   border-radius: 10px;
@@ -50,7 +50,7 @@ html {
 }
 
 .cards dd {
-  display: inline-block;
+  display: inline;
   width: 0;
   min-width: 9em;
 }
